@@ -25,15 +25,15 @@ PM_START = """Hello {}, my name is {}!
 I know what it's like to lose. To feel so desperately that you're right, yet to fail nonetheless. Dread it. Run from it.
 Destiny still arrives. Or should I say, I have.
 
-I'm world manager bot maintained by [this awesome person](https://t.me/shivamkchoudhary)!
+I'm world manager bot maintained by [this awesome person](https://t.me/freaksir)!
 
 Click Help button to find out more about how to use me to my full potential.
 
-Special Thanks to @Prakaska sar
 
-My Souce Available Here [Source](https://github.com/shivamkchoudhary/HarukaAya)
 
-Want to add me to your group? [Click here!](t.me/ThaNos_TheBot?startgroup=true)
+
+
+Want to add me to your group? [Click here!](t.me/Katherine_roBot?startgroup=true)
 
 Earth. That is my price.!"""
 
