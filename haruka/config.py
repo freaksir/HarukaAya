@@ -28,7 +28,7 @@ class Config(object):
     WHITELIST_USERS = [751890747]  # List of id's (not usernames) for users which WONT be banned/kicked by the bot.
     MAPS_API = ''
     CERT_PATH = None
-    PORT = 5000
+    PORT = 8443
     DEL_CMDS = True  # Whether or not you should delete "blue text must click" commands
     STRICT_ANTISPAM = True
     WORKERS = 8  # Number of subthreads to use. This is the recommended amount - see for yourself what works best!
